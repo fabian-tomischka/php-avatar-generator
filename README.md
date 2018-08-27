@@ -1,4 +1,4 @@
-# FabianTomischka/php-avatar-generator
+# fabian-tomischka/php-avatar-generator
 
 Display unique avatars based on the initials of your users names. Easy to use with loads of options to extend by yourself.
 
