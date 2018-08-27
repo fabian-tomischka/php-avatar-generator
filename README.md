@@ -2,6 +2,8 @@
 
 Display unique avatars based on the initials of your users names. Easy to use with loads of options to extend by yourself.
 
+![Images](https://i.imgur.com/TIZ7sBm.jpg)
+
 ## Installation
 Require from composer and start using it!
 
