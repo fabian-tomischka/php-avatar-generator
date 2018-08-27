@@ -8,7 +8,7 @@ Display unique avatars based on the initials of your users names. Easy to use wi
 Require from composer and start using it!
 
 ````bash
-composer require FabianTomischka/php-avatar-generator
+composer require fabian-tomischka/php-avatar-generator
 ````
 
 ## Usage
