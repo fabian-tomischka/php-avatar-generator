@@ -1,8 +1,8 @@
 {
-    "name": "fabito/avatargenerator",
+    "name": "FabianTomischka/php-avatar-generator",
     "description": "Easily create user avatars based on provided names or strings",
     "type": "library",
-    "keywords": ["avatar", "generation", "image manipulation"],
+    "keywords": ["avatar", "generator", "image manipulation"],
     "homepage": "https://fabito.net",
     "license": "Apache-2.0",
     "authors": [

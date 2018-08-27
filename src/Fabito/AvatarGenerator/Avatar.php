@@ -41,7 +41,7 @@ class Avatar
     /**
      * @var int $fontSize The size of the font on the avatar
      */
-    protected $fontSize = 50;
+    protected $fontSize = 42;
 
     /**
      * @var int $width The width of the avatar
